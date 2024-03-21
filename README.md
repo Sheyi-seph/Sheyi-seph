@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Sheyi-seph
-- 👀 I’m interested in music and graphics
+- 👀 I’m interested in music, graphics and games
 - 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on app dev
-- 📫 How to reach me adurasheyiakinlolu@gmail.com
+- 💞️ I’m looking to collaborate on software dev/engr
+- 📫 How to reach me josepholumayor@gmail.com
 
 <!---
 Sheyi-seph/Sheyi-seph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
