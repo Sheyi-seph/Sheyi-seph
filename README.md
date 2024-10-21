@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sheyi-seph
-- 👀 I’m interested in music, graphics and games
+- 👀 I’m interested in making stuffs, music, graphics and games
 - 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on software dev/engr
 - 📫 How to reach me josepholumayor@gmail.com
